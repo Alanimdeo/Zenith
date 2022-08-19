@@ -8,7 +8,6 @@ import {
   NoSubscriberBehavior,
   VoiceConnection,
 } from "@discordjs/voice";
-import axios from "axios";
 import { APIApplicationCommandOptionChoice, Collection, TextBasedChannel, VoiceBasedChannel } from "discord.js";
 import { Bot } from "../types";
 
